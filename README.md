@@ -4,5 +4,5 @@
   
 -------
 ## Simple Project
-  **- Simple Snake game
+  **- Simple Snake game**
   
