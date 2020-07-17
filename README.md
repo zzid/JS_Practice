@@ -1,8 +1,8 @@
 -------
-## Implementation
-  **- Trie data structure**<br>
-  **- Fenwick tree data structure**
+# Implementation
+  - Trie data structure<br>
+  - Fenwick tree data structure
 -------
-## Simple Project
-  **- Simple Snake game**
+# Simple Project
+  - Simple Snake game
   
