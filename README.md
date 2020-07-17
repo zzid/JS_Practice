@@ -1,6 +1,6 @@
 -------
 ## Implementation
-  **- Trie data structure**
+  **- Trie data structure**<br>
   **- Fenwick tree data structure**
 -------
 ## Simple Project
