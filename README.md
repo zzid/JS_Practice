@@ -5,5 +5,5 @@
   ~~- Fenwick tree data structure~~
 -------
 # Simple Project
-  - [Simple Snake game](Simple Project/SnakeGame.html)<br>
+  - [Simple Snake game](Simple_Project/SnakeGame.html)<br>
   
