@@ -1,7 +1,7 @@
 -------
 # Implementation
-  - [Trie data structure](implementation/PriorityQueue.js)<br>
-  - [Priority Queue](implementation/Trie.js)<br>
+  - [Trie data structure](Implementation/PriorityQueue.js)<br>
+  - [Priority Queue](Implementation/Trie.js)<br>
   ~~- Fenwick tree data structure~~
 -------
 # Simple Project
